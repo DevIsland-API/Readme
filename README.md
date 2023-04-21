@@ -48,4 +48,5 @@ Levando em consideração todas as sprints até aqui foram utilizados os seguint
 * BrModelo (Banco de dados/Modelagem Logíca e Conceitual)
 * Figma (Prototipação das Telas)
 * Inmsomnia (Para testar as rotas do back-end)
+
 Observação: Todos os itens foram utillizados na primeira entrega, exceto o ultimo citado, pois foi incoporado nesta entrega, sobre as nossas tecnologias utilizadas.
