@@ -4,7 +4,36 @@
 A equipe Ilha dos Devs é constituída por 6 (seis) integrantes ao todo.
 
 # Os integrantes da Equipe
-
+<table>
+    <thead>
+        <th width=365px>Membro da Equipe</th>
+        <th width=365px>Função</th>
+    </thead>
+    <tr>
+        <td><p align="center"> Pedro Reginaldo Tome Silva </p></td>
+        <td><p align="center"> Scrum Master </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> Guilherme Konflanz Mezzomo </p></td>
+        <td><p align="center"> Product Owner </p></td>
+    </tr>
+        <tr>
+        <td><p align="center"> Bianca Martins Gonçalves de Paiva </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> Francisco Quirino </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> Gustavo Konflanz Mezzomo </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+        <tr>
+        <td><p align="center"> João Victor Medeiros </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+</table>
 # Qual a empresa envolvida neste projeto?
 A empresa parceira neste projeto é a Ionic Healt, uma empresa do Grupo Ness, sendo uma das principais empresas de saúde da atualidade voltada para o eixo tecnológico.
 
