@@ -152,3 +152,7 @@ Levando em consideração todas as sprints até aqui foram utilizados os seguint
 
 Observação: Todos os itens foram utilizados na primeira entrega, exceto os dois últimos citados, pois foram incorporados nesta entrega, sobre as nossas tecnologias utilizadas.
 
+# Repositorios
+Para esta sprint em diante adotamos o modelo descentralizado de usar dois repositórios um para o back e outro para o front
+Back-end: <a href="https://github.com/DevIsland-API/API">Resumo</a>
+Front-end: <a href="https://github.com/DevIsland-API/APIfront">Resumo</a>
