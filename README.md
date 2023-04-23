@@ -69,6 +69,41 @@ Tecnologias desejáveis:
 # Gráfico Burndown (2ª Sprint)
 # Exemplo do produto funcionando
 # Calendário de entregas
+
+<table>
+    <thead>
+        <th width=110px>Sprint</th>
+        <th width=310px>Inicio</th>
+        <th width=310px>Fim</th>
+    </thead>
+        <tr>
+        <td><p align="center"> Kick-off </p></td>
+        <td><p align="center"> 07 de Março </p></td>
+        <td><p align="center"> 07 de Março </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> 1ª Sprint </p></td>
+        <td><p align="center"> 13 de Março </p></td>
+        <td><p align="center"> 02 de Abril</p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> 2ª Sprint </p></td>
+        <td><p align="center"> 03 de Abril </p></td>
+        <td><p align="center"> 23 de Abril </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> 3ª Sprint </p></td>
+        <td><p align="center"> 24 de Abril </p></td>
+        <td><p align="center"> 15 de Maio </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> 4ª Sprint </p></td>
+        <td><p align="center"> 15 de Maio </p></td>
+        <td><p align="center"> 04 de Junho </p></td>
+    </tr>
+</table>
+<p>Feira de soluçoes sera realizada em Junho com datas a serem definidas pela organização</p>
+
 # Tecnologias envolvidas no projeto
 Levando em consideração todas as sprints até aqui foram utilizados os seguintes itens abaixo:
 * Typescript (Back-end)
