@@ -15,9 +15,11 @@ O vídeo a seguir mostra a execução do aplicativo em funcionamento
 (imagem)
 
 # Definition of done
-Em Inglês Definition of done significa a definição do
+Em Inglês Definition of done significa a definição de feito, ou seja, Para iniciar o desenvolvimento de cada requisito, ele deve ser bem compreendido e subdividido em várias tarefas para os desenvolvedores. Dito isto, cada uma das pequenas tarefas geradas recebe uma descrição do que deve ser feito e sua prioridade. Tarefas que são mais difíceis podem impedir a execução de outra tarefa, por isso geralmente recebem prioridade máxima. Finalmente, os desenvolvedores podem iniciar proativamente uma tarefa.
+
 # Definition of ready
-Em Inglês Definition of ready significa a definição do
+Em Inglês Definition of ready significa a definição de pronto ou concluido, ou seja, Para que cada tarefa seja considerada realizada, é necessário revisar o código a fim de evitar conflitos, adicionar melhorias e verificar se ele atende às suas expectativas. Após a primeira avaliação, o revisor executará o sistema para verificar se há bugs ou outros problemas que possam ter surgido após a implementação. O código entrará em produção somente após a conclusão dessa verificação.
+
 ## Burndown
 Na primeira sprint tivemos porblemas desde o inicio, pois a equipe se formou apenas três dias antes do começo das atividades, o que ocasionou todo o andamento das atividades até o fim, concluindo apenas nas ultimas horas do projeto.
 (imagem)
