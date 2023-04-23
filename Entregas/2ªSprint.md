@@ -14,7 +14,11 @@ O vídeo a seguir mostra a execução do aplicativo em funcionamento.
 (imagem)
 
 # Definition of done
+Para esta fase, foram desenvolvidos os artefatos referentes a criação de telas, mais detalhes podem ser vistos abaixo nas user stories:
+(imagem)
+
 # Definition of ready
+Para esta fase, realizaremos a entrega do codigo fonte com as funcionalidades principais da aplicação, como o cadastro de chamados.
 
 ## Burndown
 Diferente da primeira sprint, embora tivemos problemas no andamento das atividades, o gráfico mostrou uma evolução nas tarefas, ainda que estejam sobrecarregadas, mas sua distribuição foi mais próximo da realidade, pois para uma tarefa ser concluida e necessario que a mesma seja registrada no gráfico bem como a conclusão pode inteferir no andamento final da mesma.
