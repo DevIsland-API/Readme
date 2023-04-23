@@ -96,7 +96,6 @@ Tecnologias desejáveis:
     </tr>
 </table>
 
-# Exemplo do produto funcionando
 # Calendário de entregas
 
 <table>
