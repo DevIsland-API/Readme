@@ -1,18 +1,18 @@
 ## API 4º Semestre de 2023-1 Equipe: Ilha dos Devs (DevsIsland)
 
 # Quem somos?
-A equipe Ilha dos Devs é constituida por 6 (seis) integrantes ao todo.
+A equipe Ilha dos Devs é constituída por 6 (seis) integrantes ao todo.
 
 # Os integrantes da Equipe
 
 # Qual a empresa envolvida neste projeto?
-A empresa parceira neste projeto e a Ionic Healt, uma empresa do Grupo Ness, sendo uma das principais empresas de saúde da atualidade voltada para o eixo tecnologico.
+A empresa parceira neste projeto é a Ionic Healt, uma empresa do Grupo Ness, sendo uma das principais empresas de saúde da atualidade voltada para o eixo tecnológico.
 
 # Objetivo do projeto
-Consiste em criar um sistema de chamados para atendimentos na área da saúde, envolvendo médicos, funcionarios do ambiente hospitalar e equivalentes seguindo a lesgislação e atendendo a realidade proposta
+Consiste em criar um sistema de chamados para atendimentos na área da saúde, envolvendo médicos, funcionários do ambiente hospitalar e equivalentes seguindo a legislação e atendendo a realidade proposta
 
 # Proposta do projeto
-A mesma se constitue no item apresentado acima segundo os seguintes requisitos abaixo:
+A mesma se constitui no item apresentado acima segundo os seguintes requisitos abaixo:
 Requisitos funcionais:
 * Cadastro de grupos e usuários
 * Permissão por grupo e por usuário
@@ -20,7 +20,7 @@ Requisitos funcionais:
 * Fila de chamados por time
 * Configuração e personalização de formulário de chamados
 * Cadastro de soluções para problemas conhecidos
-* Formualário de abertura de chamada com indicação d interessados.
+* Formulário de abertura de chamada com indicação de interessados.
 
 Requisitos não funcionais:
 * React
@@ -34,7 +34,7 @@ Tecnologias desejáveis:
 * Heroku
 * Typescript
 
-# Produt Backlog (Até a 2ª Sprint)
+# Product Backlog (Até a 2ª Sprint)
 # Sprint Backlog (2ª Sprint)
 # Gráfico Burndown (2ª Sprint)
 # Exemplo do produto funcionando
@@ -45,9 +45,9 @@ Levando em consideração todas as sprints até aqui foram utilizados os seguint
 * MySQL (Banco de dados)
 * Javascript (Back-end com o Node)
 * Css (Front-end)
-* BrModelo (Banco de dados/Modelagem Logíca e Conceitual)
+* BrModelo (Banco de dados/Modelagem Lógica e Conceitual)
 * Figma (Prototipação das Telas)
 * Inmsomnia (Para testar as rotas do back-end)
 * Docker (Integração entre Back-end e Banco de dados)
 
-Observação: Todos os itens foram utillizados na primeira entrega, exceto o ultimo citado, pois foi incoporado nesta entrega, sobre as nossas tecnologias utilizadas.
+Observação: Todos os itens foram utilizados na primeira entrega, exceto os dois últimos citados, pois foram incorporados nesta entrega, sobre as nossas tecnologias utilizadas.
