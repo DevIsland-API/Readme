@@ -99,13 +99,13 @@ Tecnologias desejáveis:
         <td><p align="center"> 3ª Sprint </p></td>
         <td><p align="center"> 24 de Abril </p></td>
         <td><p align="center"> 15 de Maio </p></td>
-        <td><p align="center"><a href="">Resumo</a></p></td>
+        <td><p align="center">Resumo</p></td>
     </tr>
     <tr>
         <td><p align="center"> 4ª Sprint </p></td>
         <td><p align="center"> 15 de Maio </p></td>
         <td><p align="center"> 04 de Junho </p></td>
-        <td><p align="center"><a href="">Resumo</a></p></td>
+        <td><p align="center">Resumo</p></td>
     </tr>
 </table>
 <p>Feira de soluçoes sera realizada em Junho com datas a serem definidas pela organização</p>
