@@ -75,7 +75,7 @@ Tecnologias desejáveis:
         <th width=110px>Sprint</th>
         <th width=310px>Inicio</th>
         <th width=310px>Fim</th>
-        <th width=130px>Readme</th>
+        <th width=140px>Readme</th>
     </thead>
         <tr>
         <td><p align="center"> Kick-off </p></td>
