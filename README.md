@@ -72,27 +72,27 @@ Tecnologias desejáveis:
     </thead>
     <tr>
         <td><p align="center"> 1ª Sprint </p></td>
-        <td><p align="center">  </p></td>
+        <td><p align="center"> Desenvolvimento do CRUD com cadastro de chamados </p></td>
     </tr>
     <tr>
         <td><p align="center"> 1ª Sprint </p></td>
-        <td><p align="center"> Product Owner </p></td>
+        <td><p align="center"> Desenvolvimento da tela de criação de formulários </p></td>
     </tr>
         <tr>
         <td><p align="center"> 1ª Sprint </p></td>
-        <td><p align="center"> Dev Team </p></td>
+        <td><p align="center"> Criação do banco de dados </p></td>
     </tr>
     <tr>
         <td><p align="center"> 2ª Sprint</p></td>
-        <td><p align="center"> Dev Team </p></td>
+        <td><p align="center"> Telas do front-end </p></td>
     </tr>
     <tr>
         <td><p align="center"> 2ª Sprint </p></td>
-        <td><p align="center"> Dev Team </p></td>
+        <td><p align="center"> CRUD integrado com o back-end </p></td>
     </tr>
         <tr>
         <td><p align="center"> 2ª Sprint </p></td>
-        <td><p align="center"> Dev Team </p></td>
+        <td><p align="center"> Integração conjunta entre back, front e banco de dados. </p></td>
     </tr>
 </table>
 
