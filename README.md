@@ -64,9 +64,37 @@ Tecnologias desejáveis:
 * Heroku
 * Typescript
 
-# Product Backlog (Até a 2ª Sprint)
-# Sprint Backlog (2ª Sprint)
-# Gráfico Burndown (2ª Sprint)
+# Product Backlog Parcial (Até a 2ª Sprint)
+<table>
+    <thead>
+        <th width=100px>Sprint</th>
+        <th width=600px>Item a ser desenvolvido</th>
+    </thead>
+    <tr>
+        <td><p align="center"> 1ª Sprint </p></td>
+        <td><p align="center">  </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> 1ª Sprint </p></td>
+        <td><p align="center"> Product Owner </p></td>
+    </tr>
+        <tr>
+        <td><p align="center"> 1ª Sprint </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> 2ª Sprint</p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+    <tr>
+        <td><p align="center"> 2ª Sprint </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+        <tr>
+        <td><p align="center"> 2ª Sprint </p></td>
+        <td><p align="center"> Dev Team </p></td>
+    </tr>
+</table>
 # Exemplo do produto funcionando
 # Calendário de entregas
 
@@ -123,8 +151,3 @@ Levando em consideração todas as sprints até aqui foram utilizados os seguint
 
 Observação: Todos os itens foram utilizados na primeira entrega, exceto os dois últimos citados, pois foram incorporados nesta entrega, sobre as nossas tecnologias utilizadas.
 
-## Readmes das entregas
-* 1ªSprint: https://github.com/DevIsland-API/Readme/blob/main/Entregas/1%C2%AASprint.md
-* 2ªSprint: https://github.com/DevIsland-API/Readme/blob/main/Entregas/2%C2%AASprint.md
-* 3ªSprint: A ser desenvolvido
-* 4ªSprint: A ser desenvolvido
