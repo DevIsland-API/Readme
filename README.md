@@ -53,7 +53,7 @@ Levando em consideração todas as sprints até aqui foram utilizados os seguint
 Observação: Todos os itens foram utilizados na primeira entrega, exceto os dois últimos citados, pois foram incorporados nesta entrega, sobre as nossas tecnologias utilizadas.
 
 ## Readmes das entregas
-1ªSprint:https://github.com/DevIsland-API/Readme/blob/main/Entregas/1%C2%AASprint.md
-2ªSprint:https://github.com/DevIsland-API/Readme/blob/main/Entregas/2%C2%AASprint.md
-3ªSprint: A ser desenvolvido
-4ªSprint: A ser desenvolvido
+* 1ªSprint:https://github.com/DevIsland-API/Readme/blob/main/Entregas/1%C2%AASprint.md
+* 2ªSprint:https://github.com/DevIsland-API/Readme/blob/main/Entregas/2%C2%AASprint.md
+* 3ªSprint: A ser desenvolvido
+* 4ªSprint: A ser desenvolvido
