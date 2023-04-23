@@ -34,6 +34,7 @@ A equipe Ilha dos Devs é constituída por 6 (seis) integrantes ao todo.
         <td><p align="center"> Dev Team </p></td>
     </tr>
 </table>
+
 # Qual a empresa envolvida neste projeto?
 A empresa parceira neste projeto é a Ionic Healt, uma empresa do Grupo Ness, sendo uma das principais empresas de saúde da atualidade voltada para o eixo tecnológico.
 
