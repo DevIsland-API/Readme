@@ -6,6 +6,8 @@
 
 # O que fizemos?
 Nesta sprint, como os resultados não satisfazeram a nossa realidade, foi necessario rever o projeto, inclusive trocando de repositorio, com uma nova infraestrutura no back-end, um novo front-end e a integração com o banco de dados.
+![use 2](https://user-images.githubusercontent.com/67759198/233874359-0038dfcc-9b2c-4d60-bff3-14c61b436160.png)
+
 # Por que?
 Além de recuperar o tempo perdido, conseguimos incluir a integração com o banco de dados e o sistema funcionado, mesmo com poucas funcionalidades.
 
@@ -15,7 +17,7 @@ O vídeo a seguir mostra a execução do aplicativo em funcionamento.
 
 # Definition of done
 Para esta fase, foram desenvolvidos os artefatos referentes a criação de telas, mais detalhes podem ser vistos abaixo nas user stories:
-(imagem)
+![use 2](https://user-images.githubusercontent.com/67759198/233874359-0038dfcc-9b2c-4d60-bff3-14c61b436160.png)
 
 # Definition of ready
 Para esta fase, realizaremos a entrega do codigo fonte com as funcionalidades principais da aplicação, como o cadastro de chamados.
