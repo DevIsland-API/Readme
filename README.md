@@ -90,10 +90,6 @@ Tecnologias desejáveis:
         <td><p align="center"> 2ª Sprint </p></td>
         <td><p align="center"> CRUD integrado com o back-end </p></td>
     </tr>
-        <tr>
-        <td><p align="center"> 2ª Sprint </p></td>
-        <td><p align="center"> Integração conjunta entre back, front e banco de dados. </p></td>
-    </tr>
 </table>
 
 # Calendário de entregas
