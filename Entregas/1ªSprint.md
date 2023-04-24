@@ -6,6 +6,8 @@
 
 # O que fizemos?
 Na primeira sprint realizamos a criação do banco de dados bem como o seu modelo lógico para a modelagem do nosso projeto, bem como a prototipação das telas e da criação do back-end.
+
+
 # Por que?
 Sempre quando iniciamos uma aplicação, primeiramente deveremos montar o escopo e a definição das tarefas bem como quais direções deveremos tomar ate conseguir chegar ao nosso objetivo.
 
