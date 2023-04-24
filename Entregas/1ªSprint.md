@@ -25,4 +25,4 @@ Em Inglês Definition of ready significa a definição de pronto ou concluido, o
 
 ## Burndown
 Na primeira sprint tivemos porblemas desde o inicio, pois a equipe se formou apenas três dias antes do começo das atividades, o que ocasionou todo o andamento das atividades até o fim, concluindo apenas nas ultimas horas do projeto.
-(imagem)
+![Capturar3](https://user-images.githubusercontent.com/67759198/233875147-dcf4fff2-9803-4c1b-8795-991c9eeb607b.PNG)
