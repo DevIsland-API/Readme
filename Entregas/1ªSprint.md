@@ -15,7 +15,7 @@ Sempre quando iniciamos uma aplicação, primeiramente deveremos montar o escopo
 
 ## Aplicativo em execução
 O vídeo a seguir mostra a execução do aplicativo em funcionamento
-(imagem)
+Uploading WhatsApp Video 2023-04-02 at 20.52.41.mp4…
 
 # Definition of done
 Em Inglês Definition of done significa a definição de feito, ou seja, Para iniciar o desenvolvimento de cada requisito, ele deve ser bem compreendido e subdividido em várias tarefas para os desenvolvedores. Dito isto, cada uma das pequenas tarefas geradas recebe uma descrição do que deve ser feito e sua prioridade. Tarefas que são mais difíceis podem impedir a execução de outra tarefa, por isso geralmente recebem prioridade máxima. Finalmente, os desenvolvedores podem iniciar proativamente uma tarefa.
