@@ -6,7 +6,7 @@
 
 ## O que fizemos?
 Na primeira sprint realizamos a criação do banco de dados bem como o seu modelo lógico para a modelagem do nosso projeto, bem como a prototipação das telas e da criação do back-end.
-![use 1](https://user-images.githubusercontent.com/67759198/233874754-1ec19693-23c6-4f19-8368-a75531f4af27.png)
+![use 1](https://user-images.githubusercontent.com/67759198/233876089-9e5942d1-979f-47cc-8b74-9f3217f77cf1.png)
 
 
 ## Por que?
