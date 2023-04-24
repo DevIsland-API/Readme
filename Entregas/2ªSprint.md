@@ -13,7 +13,7 @@ Além de recuperar o tempo perdido, conseguimos incluir a integração com o ban
 
 # Aplicativo em execução
 O vídeo a seguir mostra a execução do aplicativo em funcionamento.
-[(imagem)]<a href"(https://user-images.githubusercontent.com/67759198/233878764-37d7bd8c-e81b-4994-865d-8da591db9ca1.mp4)">AQUI</a>
+<a href"(https://user-images.githubusercontent.com/67759198/233878764-37d7bd8c-e81b-4994-865d-8da591db9ca1.mp4)">AQUI</a>
 
 ## Definition of done
 Para esta fase, foram desenvolvidos os artefatos referentes a criação de telas, mais detalhes podem ser vistos abaixo nas user stories:
