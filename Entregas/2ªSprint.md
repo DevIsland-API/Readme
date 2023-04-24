@@ -24,4 +24,4 @@ Para esta fase, realizaremos a entrega do codigo fonte com as funcionalidades pr
 
 ## Burndown
 Diferente da primeira sprint, embora tivemos problemas no andamento das atividades, o gráfico mostrou uma evolução nas tarefas, ainda que estejam sobrecarregadas, mas sua distribuição foi mais próximo da realidade, pois para uma tarefa ser concluida e necessario que a mesma seja registrada no gráfico bem como a conclusão pode inteferir no andamento final da mesma.
-(imagem)
+![Burndown 2](https://user-images.githubusercontent.com/67759198/233874587-e624722e-002f-4a4c-b6bf-3f9ef44b1bde.PNG)
