@@ -65,32 +65,10 @@ Tecnologias desejáveis:
 * Typescript
 
 # Product Backlog Parcial (Até a 2ª Sprint)
-<table>
-    <thead>
-        <th width=100px>Sprint</th>
-        <th width=600px>Item a ser desenvolvido</th>
-    </thead>
-    <tr>
-        <td><p align="center"> 1ª Sprint </p></td>
-        <td><p align="center"> Desenvolvimento do CRUD com cadastro de chamados </p></td>
-    </tr>
-    <tr>
-        <td><p align="center"> 1ª Sprint </p></td>
-        <td><p align="center"> Desenvolvimento da tela de criação de formulários </p></td>
-    </tr>
-        <tr>
-        <td><p align="center"> 1ª Sprint </p></td>
-        <td><p align="center"> Criação do banco de dados </p></td>
-    </tr>
-    <tr>
-        <td><p align="center"> 2ª Sprint</p></td>
-        <td><p align="center"> Telas do front-end </p></td>
-    </tr>
-    <tr>
-        <td><p align="center"> 2ª Sprint </p></td>
-        <td><p align="center"> CRUD integrado com o back-end </p></td>
-    </tr>
-</table>
+
+
+# User Stories (Histórias de usúario)
+
 
 # Calendário de entregas
 
