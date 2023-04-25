@@ -12,8 +12,9 @@ Nesta sprint, como os resultados não satisfazeram a nossa realidade, foi necess
 Além de recuperar o tempo perdido, conseguimos incluir a integração com o banco de dados e o sistema funcionado, mesmo com poucas funcionalidades.
 
 # Aplicativo em execução
-O vídeo a seguir mostra a execução do aplicativo em funcionamento.
-![imagem](https://user-images.githubusercontent.com/67759198/233878764-37d7bd8c-e81b-4994-865d-8da591db9ca1.mp4)
+Reprodução do aplicativo em funcionamento
+observação: devido a problemas de gravação no vídeo não foi possivel exibi-lo
+![analise](https://user-images.githubusercontent.com/67759198/234408543-82f2b6e4-aef0-428c-a4a3-15a4684f2a64.png)
 
 ## Definition of done
 Para esta fase, foram desenvolvidos os artefatos referentes a criação de telas, mais detalhes podem ser vistos abaixo nas user stories:
