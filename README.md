@@ -66,9 +66,11 @@ Tecnologias desejáveis:
 
 # Product Backlog Parcial (Até a 2ª Sprint)
 
+![Backlog geral](https://user-images.githubusercontent.com/67759198/234394970-30e4f87d-5e90-4939-8348-bd6a72bf2c08.PNG)
 
 # User Stories (Histórias de usúario)
 
+![stories](https://user-images.githubusercontent.com/67759198/234394642-8d665553-e5a2-4986-9bf5-a4333bd8d526.png)
 
 # Calendário de entregas
 
