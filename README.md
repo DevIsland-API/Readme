@@ -64,7 +64,7 @@ Tecnologias desejáveis:
 * Heroku
 * Typescript
 
-# Product Backlog Parcial (Até a 2ª Sprint)
+# Product Backlog (Todo o projeto)
 
 ![Backlog geral](https://user-images.githubusercontent.com/67759198/234394970-30e4f87d-5e90-4939-8348-bd6a72bf2c08.PNG)
 
