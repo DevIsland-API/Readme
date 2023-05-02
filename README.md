@@ -97,13 +97,13 @@ Tecnologias desejáveis:
         <td><p align="center"> 2ª Sprint </p></td>
         <td><p align="center"> 03 de Abril </p></td>
         <td><p align="center"> 23 de Abril </p></td>
-        <td><p align="center"><a href="https://github.com/DevIsland-API/Readme/blob/main/Entregas/2%C2%AASprint.md">Resumo</a> </p></td>
+        <td><p align="center"><a href="https://github.com/DevIsland-API/Readme/blob/main/Entregas/2%C2%AASprint.md">Resumo</a></p></td>
     </tr>
     <tr>
         <td><p align="center"> 3ª Sprint </p></td>
         <td><p align="center"> 24 de Abril </p></td>
         <td><p align="center"> 15 de Maio </p></td>
-        <td><p align="center">Não disponível</p></td>
+        <td><p align="center"><a href="https://github.com/DevIsland-API/Readme/blob/main/Entregas/3%C2%AASprint.md">Resumo</a></p></td>
     </tr>
     <tr>
         <td><p align="center"> 4ª Sprint </p></td>
