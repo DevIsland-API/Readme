@@ -22,7 +22,7 @@ A equipe Ilha dos Devs é constituída por 6 (seis) integrantes ao todo.
         <td><p align="center"> Dev Team </p></td>
     </tr>
     <tr>
-        <td><p align="center"> Francisco Quirino </p></td>
+        <td><p align="center"> Francisco Douglas Quirino </p></td>
         <td><p align="center"> Dev Team </p></td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@ A equipe Ilha dos Devs é constituída por 6 (seis) integrantes ao todo.
         <td><p align="center"> Dev Team </p></td>
     </tr>
         <tr>
-        <td><p align="center"> João Victor Medeiros </p></td>
+        <td><p align="center"> João Victor Medeiros Gallina</p></td>
         <td><p align="center"> Dev Team </p></td>
     </tr>
 </table>
@@ -112,7 +112,7 @@ Tecnologias desejáveis:
         <td><p align="center">Não disponível</p></td>
     </tr>
 </table>
-<p>Feira de soluçoes sera realizada em Junho com datas a serem definidas pela organização</p>
+<p>Feira de soluçoes será realizada em Junho com datas a serem definidas pela organização</p>
 
 # Tecnologias envolvidas no projeto
 Levando em consideração todas as sprints até aqui foram utilizados os seguintes itens abaixo:
@@ -128,7 +128,7 @@ Levando em consideração todas as sprints até aqui foram utilizados os seguint
 Observação: Todos os itens foram utilizados na primeira entrega, exceto os dois últimos citados, pois foram incorporados nesta entrega, sobre as nossas tecnologias utilizadas.
 
 # Repositórios
-Para esta sprint em diante adotamos o modelo descentralizado de usar dois repositórios um para o back e outro para o front.
+A partir da 2ª Sprint em diante adotamos o modelo descentralizado de utilizar dois repositórios, um para o back-end e outro para o front-end.
 
 Back-end: <a href="https://github.com/DevIsland-API/API">Aqui</a>
 
