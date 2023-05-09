@@ -131,4 +131,5 @@ Observação: Todos os itens foram utilizados na primeira entrega, exceto os doi
 A partir da 2ª Sprint em diante adotamos o modelo descentralizado de utilizar dois repositórios, um para o back-end e outro para o front-end.
 
 <a href="https://github.com/DevIsland-API/API">Repositório do Back-end</a>
+<br/>
 <a href="https://github.com/DevIsland-API/APIfront">Repositório do Front-end</a>
