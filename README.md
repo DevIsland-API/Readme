@@ -130,6 +130,8 @@ Observação: Todos os itens foram utilizados na primeira entrega, exceto os doi
 # Repositórios
 A partir da 2ª Sprint em diante adotamos o modelo descentralizado de utilizar dois repositórios, um para o back-end e outro para o front-end.
 
+
+
 <table>
     <thead>
         <th width=365px>Modelo de reposittório</th>
@@ -141,6 +143,6 @@ A partir da 2ª Sprint em diante adotamos o modelo descentralizado de utilizar d
     </tr>
     <tr>
         <td><p align="center"> Front-end </p></td>
-        <td><p align="center"> "https://github.com/DevIsland-API/APIfront" </p></td>
+        <td><p align="center"> <a href="[https://github.com/DevIsland-API/Readme/blob/main/Entregas/3%C2%AASprint.md](https://github.com/DevIsland-API/APIfront)">Resumo</a> </p></td>
     </tr>
 </table>
