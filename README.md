@@ -134,7 +134,7 @@ A partir da 2ª Sprint em diante adotamos o modelo descentralizado de utilizar d
 
 <table>
     <thead>
-        <th width=365px>Modelo de reposittório</th>
+        <th width=365px>Modelo de repositório</th>
         <th width=365px>Código</th>
     </thead>
     <tr>
