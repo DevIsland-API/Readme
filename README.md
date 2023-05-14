@@ -143,6 +143,6 @@ A partir da 2ª Sprint em diante adotamos o modelo descentralizado de utilizar d
     </tr>
     <tr>
         <td><p align="center"> Front-end </p></td>
-         <td><p align="center"><a href="[https://github.com/DevIsland-API/Readme/blob/main/Entregas/3%C2%AASprint.md](https://github.com/DevIsland-API/APIfront)">AQUI</a></p></td>
+        <td><p align="center"><a href="https://github.com/DevIsland-API/APIfront">Aqui</a></p></td>
     </tr>
 </table>
