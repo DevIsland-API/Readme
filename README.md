@@ -70,7 +70,8 @@ Tecnologias desejáveis:
 
 # User Stories (Histórias de usúario)
 
-![stories](https://user-images.githubusercontent.com/67759198/234394642-8d665553-e5a2-4986-9bf5-a4333bd8d526.png)
+![User stories](https://github.com/DevIsland-API/Readme/assets/67759198/26bc5940-e33f-4bf5-a653-50a4a4c7d4e4)
+
 
 # Calendário de entregas
 
