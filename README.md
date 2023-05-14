@@ -139,10 +139,10 @@ A partir da 2ª Sprint em diante adotamos o modelo descentralizado de utilizar d
     </thead>
     <tr>
         <td><p align="center"> Back-end </p></td>
-        <td><p align="center"> "https://github.com/DevIsland-API/API" </p></td>
+        <td><p align="center"><a href="https://github.com/DevIsland-API/API">Código fonte aqui</a></p></td>
     </tr>
     <tr>
         <td><p align="center"> Front-end </p></td>
-        <td><p align="center"><a href="https://github.com/DevIsland-API/APIfront">Aqui</a></p></td>
+        <td><p align="center"><a href="https://github.com/DevIsland-API/APIfront">Código fonte aqui</a></p></td>
     </tr>
 </table>
