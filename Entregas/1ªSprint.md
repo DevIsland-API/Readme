@@ -8,6 +8,8 @@
 Na primeira sprint realizamos a criação do banco de dados bem como o seu modelo lógico para a modelagem do nosso projeto, bem como a prototipação das telas e da criação do back-end.
 ![use 1](https://user-images.githubusercontent.com/67759198/233876089-9e5942d1-979f-47cc-8b74-9f3217f77cf1.png)
 
+Não houve user stories nesta sprint.
+
 
 ## Por que?
 Sempre quando iniciamos uma aplicação, primeiramente deveremos montar o escopo e a definição das tarefas bem como quais direções deveremos tomar ate conseguir chegar ao nosso objetivo.
@@ -26,4 +28,11 @@ Em Inglês Definition of ready significa a definição de pronto ou concluido, o
 
 # Burndown
 Na primeira sprint tivemos porblemas desde o inicio, pois a equipe se formou apenas três dias antes do começo das atividades, o que ocasionou todo o andamento das atividades até o fim, concluindo apenas nas ultimas horas do projeto.
+Gráfico Burndowm
 ![Capturar3](https://user-images.githubusercontent.com/67759198/233875147-dcf4fff2-9803-4c1b-8795-991c9eeb607b.PNG)
+
+Distribuição das tarefas
+![Capturar5](https://github.com/DevIsland-API/Readme/assets/67759198/cb5a008d-3adf-4054-b5dc-bface7751117)
+
+Evolução do tempo nesta entrega
+![Capturar4](https://github.com/DevIsland-API/Readme/assets/67759198/e1245e55-35d5-4a98-bc6b-c9547c15902a)
