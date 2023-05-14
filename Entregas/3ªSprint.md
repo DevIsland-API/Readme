@@ -2,7 +2,7 @@
 
 # Terceira Sprint (24 de Abril a 14 de Maio)
 
-# MVP 2ª Sprint 
+# MVP 3ª Sprint 
 
 ## O que fizemos?
 Nesta Sprint, aumentamos o número de funcionalidades, chegando a abranger todas as utilidades propostas inicialmente ao cliente.
