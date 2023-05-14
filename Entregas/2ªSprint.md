@@ -6,6 +6,10 @@
 
 ## O que fizemos?
 Nesta sprint, como os resultados não satisfazeram a nossa realidade, foi necessario rever o projeto, inclusive trocando de repositorio, com uma nova infraestrutura no back-end, um novo front-end e a integração com o banco de dados.
+Backlog da 2ªSprint
+![Backlog 2 sprint](https://github.com/DevIsland-API/Readme/assets/67759198/b8ca7f74-3eff-4162-9509-fb12292f1696)
+
+User stories da 2ªSprint
 ![sw1](https://user-images.githubusercontent.com/67759198/233880532-3069d676-350b-49f4-bd9c-0673fa0c9e05.png)
 
 ## Por que?
