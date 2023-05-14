@@ -28,11 +28,14 @@ Em Inglês Definition of ready significa a definição de pronto ou concluido, o
 
 # Burndown
 Na primeira sprint tivemos porblemas desde o inicio, pois a equipe se formou apenas três dias antes do começo das atividades, o que ocasionou todo o andamento das atividades até o fim, concluindo apenas nas ultimas horas do projeto.
+
 Gráfico Burndowm
 ![Capturar3](https://user-images.githubusercontent.com/67759198/233875147-dcf4fff2-9803-4c1b-8795-991c9eeb607b.PNG)
 
+
 Distribuição das tarefas
 ![Capturar5](https://github.com/DevIsland-API/Readme/assets/67759198/cb5a008d-3adf-4054-b5dc-bface7751117)
+
 
 Evolução do tempo nesta entrega
 ![Capturar4](https://github.com/DevIsland-API/Readme/assets/67759198/e1245e55-35d5-4a98-bc6b-c9547c15902a)
