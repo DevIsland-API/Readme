@@ -44,6 +44,6 @@ Grafico burndowm da 2ªSprint
 
 ![Burndown 2](https://user-images.githubusercontent.com/67759198/233874587-e624722e-002f-4a4c-b6bf-3f9ef44b1bde.PNG)
 
-Evolução dos dias
+Evolução dos dias e o gráfico burndowm
 
 ![Geral 2](https://github.com/DevIsland-API/Readme/assets/67759198/894a05a2-661f-4129-bfc8-7e0c7c82a944)
