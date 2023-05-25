@@ -22,10 +22,6 @@ A equipe Ilha dos Devs é constituída por 6 (seis) integrantes ao todo.
         <td><p align="center"> Dev Team </p></td>
     </tr>
     <tr>
-        <td><p align="center"> Francisco Douglas Quirino </p></td>
-        <td><p align="center"> Dev Team </p></td>
-    </tr>
-    <tr>
         <td><p align="center"> Gustavo Konflanz Mezzomo </p></td>
         <td><p align="center"> Dev Team </p></td>
     </tr>
@@ -34,7 +30,7 @@ A equipe Ilha dos Devs é constituída por 6 (seis) integrantes ao todo.
         <td><p align="center"> Dev Team </p></td>
     </tr>
 </table>
-
+Observação: Francisco Douglas Quirino trabalhou nesta equipe de 13 de Março e 23 de Maio, quando pediu desligamento
 # Qual a empresa envolvida neste projeto?
 A empresa parceira neste projeto é a Ionic Healt, uma empresa do Grupo Ness, sendo uma das principais empresas de saúde da atualidade voltada para o eixo tecnológico.
 
