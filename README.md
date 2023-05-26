@@ -107,7 +107,7 @@ Tecnologias desejáveis:
         <td><p align="center"> 4ª Sprint </p></td>
         <td><p align="center"> 15 de Maio </p></td>
         <td><p align="center"> 04 de Junho </p></td>
-        <td><p align="center">Não disponível</p></td>
+        <td><p align="center"><a href="https://github.com/DevIsland-API/Readme/blob/main/Entregas/4%C2%AASprint.md">Resumo</a></p></td>
     </tr>
 </table>
 <p>Feira de soluçoes será realizada em Junho com datas a serem definidas pela organização</p>
