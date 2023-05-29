@@ -19,7 +19,7 @@ User stories desta sprint
 Para se construir um projeto do zero, precisa-se atender os requisitos impostos pelo cliente, e diante destes requisitos optamos em fragmentar em partes até chegar no resultado, com isso temos entregas por onde apresentamos uma parte do sistema pronta para os contratantes e a cada rodada de entregas ampliamos este número de funcionalidades.
 
 # Aplicativo em Execução
-(video a ser exibido)
+Não houve vídeo de apresentação das funcionalidades nesta entrega
 
 ## Definition of Done
 Para esta fase foram desenvolvidos a criação de novas telas chegando ao a abranger o projeto como todo e a integração entre o back-end e o front-end. mais detalhes abaixo
