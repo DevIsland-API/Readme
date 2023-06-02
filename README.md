@@ -121,7 +121,7 @@ Levando em consideração todas as sprints até aqui foram utilizados os seguint
 * BrModelo (Banco de dados/Modelagem Lógica e Conceitual)
 * Figma (Prototipação das Telas)
 * Inmsomnia (Para testar as rotas do back-end)
-* Docker (Integração entre Back-end e Banco de dados)
+* Microsoft Azure (Integração entre Back-end e Banco de dados)
 
 Observação: Todos os itens foram utilizados na primeira entrega, exceto os dois últimos citados, pois foram incorporados nesta entrega, sobre as nossas tecnologias utilizadas.
 
