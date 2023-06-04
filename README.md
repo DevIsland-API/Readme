@@ -127,6 +127,7 @@ Observação: Todos os itens foram utilizados na primeira entrega, exceto os doi
 
 # Repositórios
 A partir da 2ª Sprint em diante adotamos o modelo descentralizado de utilizar dois repositórios, um para o back-end e outro para o front-end.
+Mas devido a problemas tecnicos na quarta sprint, voltou-se a ter apenas um unico repositório neste projeto que corresponde a pagian do front-end, embora reune todos os arquivos de código, incuindo o Back-end e Documentação utilizada no certame.
 
 
 
@@ -136,11 +137,7 @@ A partir da 2ª Sprint em diante adotamos o modelo descentralizado de utilizar d
         <th width=365px>Código</th>
     </thead>
     <tr>
-        <td><p align="center"> Back-end </p></td>
-        <td><p align="center"><a href="https://github.com/DevIsland-API/API">Código fonte aqui</a></p></td>
-    </tr>
-    <tr>
-        <td><p align="center"> Front-end </p></td>
+        <td><p align="center"> Back-end e Front-end </p></td>
         <td><p align="center"><a href="https://github.com/DevIsland-API/APIfront">Código fonte aqui</a></p></td>
     </tr>
 </table>
